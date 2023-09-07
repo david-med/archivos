@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T19:39:51.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XC0RQzYgPbKSE_ruDU5C" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-07T19:41:22.101Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Eubi68ns4KdvXEog6m3-" version="21.7.2" type="github" pages="2">
   <diagram id="D9h3iXenDGCqqUBIsyox" name="Pre_conceptual">
     <mxGraphModel dx="2413" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="900" math="0" shadow="0">
       <root>
@@ -1159,7 +1159,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Pre_conceptual_DinoTrack" id="qF8yofwi0jYQhBcnuPl0">
-    <mxGraphModel dx="1784" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1891" dy="1256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="XXWAqgbXjoSJ_NWyzFIz-0" />
         <mxCell id="XXWAqgbXjoSJ_NWyzFIz-1" parent="XXWAqgbXjoSJ_NWyzFIz-0" />
@@ -2061,7 +2061,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xQ8s0VTS3RqMdglbUils-1" value="" style="group" parent="XXWAqgbXjoSJ_NWyzFIz-1" vertex="1" connectable="0">
-          <mxGeometry x="870" y="798.5" width="1191.5" height="960" as="geometry" />
+          <mxGeometry x="870" y="830" width="1191.5" height="960" as="geometry" />
         </mxCell>
         <mxCell id="xQ8s0VTS3RqMdglbUils-0" value="&lt;h1 style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Diagrama de clases&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;direction=east;" parent="xQ8s0VTS3RqMdglbUils-1" vertex="1">
           <mxGeometry width="1191.5" height="960" as="geometry" />
@@ -2189,7 +2189,7 @@
         <mxCell id="ho3q5REitDim4u5siEDX-6" value="+ nombre_ref: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="U2mAPEXrMH97ZQ0m9NCZ-28" vertex="1">
           <mxGeometry y="52" width="190" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ho3q5REitDim4u5siEDX-7" value="+ mantenimiento: Mantenimiento" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="U2mAPEXrMH97ZQ0m9NCZ-28" vertex="1">
+        <mxCell id="ho3q5REitDim4u5siEDX-7" value="+ mantenimiento: Mantenimiento&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="U2mAPEXrMH97ZQ0m9NCZ-28" vertex="1">
           <mxGeometry y="78" width="190" height="26" as="geometry" />
         </mxCell>
         <mxCell id="U2mAPEXrMH97ZQ0m9NCZ-30" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="U2mAPEXrMH97ZQ0m9NCZ-28" vertex="1">
