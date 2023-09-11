@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T02:27:18.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sL2vsl9UZ_Cg2nW9WbDN" version="21.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-11T02:44:39.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bcCOJCO7WXkVo1hjGdR1" version="21.7.4" type="github" pages="3">
   <diagram id="D9h3iXenDGCqqUBIsyox" name="plantilla">
     <mxGraphModel dx="3433" dy="2176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="900" math="0" shadow="0">
       <root>
@@ -1159,7 +1159,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Esquema pre-conceptual-DinoTrack" id="qF8yofwi0jYQhBcnuPl0">
-    <mxGraphModel dx="2413" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3725" dy="1435" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="XXWAqgbXjoSJ_NWyzFIz-0" />
         <mxCell id="XXWAqgbXjoSJ_NWyzFIz-1" parent="XXWAqgbXjoSJ_NWyzFIz-0" />
@@ -1675,7 +1675,7 @@
         <mxCell id="Z2CKoz0j54wqVuSOibqe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" parent="XXWAqgbXjoSJ_NWyzFIz-1" source="cbO3k7c87Axg01gz9aJy-49" target="Z2CKoz0j54wqVuSOibqe-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cbO3k7c87Axg01gz9aJy-49" value="&lt;font style=&quot;font-size: 11px ; font-family: &amp;quot;calibri&amp;quot; ; color: #000000 ; direction: ltr ; letter-spacing: 0px ; line-height: 120% ; opacity: 1&quot;&gt;ADMINISTRADOR TALLER&lt;br&gt;&lt;/font&gt;" style="verticalAlign=middle;align=center;vsdxID=7;fillColor=#92D050;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontStyle=1" parent="XXWAqgbXjoSJ_NWyzFIz-1" vertex="1">
+        <mxCell id="cbO3k7c87Axg01gz9aJy-49" value="&lt;font style=&quot;font-size: 11px ; font-family: &amp;quot;calibri&amp;quot; ; color: #000000 ; direction: ltr ; letter-spacing: 0px ; line-height: 120% ; opacity: 1&quot;&gt;ADMINISTRADOR MECÁNICO&lt;br&gt;&lt;/font&gt;" style="verticalAlign=middle;align=center;vsdxID=7;fillColor=#92D050;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontStyle=1" parent="XXWAqgbXjoSJ_NWyzFIz-1" vertex="1">
           <mxGeometry x="-732.6" y="1195" width="104.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cbO3k7c87Axg01gz9aJy-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.353;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.988;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;" parent="XXWAqgbXjoSJ_NWyzFIz-1" source="cbO3k7c87Axg01gz9aJy-58" target="cbO3k7c87Axg01gz9aJy-6" edge="1">
