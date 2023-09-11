@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T10:56:00.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FFTktQ9FZkkJoxxqza64" version="21.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-11T10:56:43.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="--s-yvfooxq8ALM05AtQ" version="21.7.4" type="github" pages="3">
   <diagram id="fCJSdda50q0JQ7jUM0bV" name="Diagrama Organizacional">
     <mxGraphModel dx="1238" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HIxXbzQP45-HdhU7XKrH-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Diagrama Organizacional&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="-129" width="1472" height="1000" as="geometry">
+          <mxGeometry x="-347" y="-280" width="1472" height="1150" as="geometry">
             <mxRectangle x="40" y="80" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
