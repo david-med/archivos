@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T16:47:38.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="LuS8PYsSaC9bwi48ql2Q" version="21.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-01T16:48:25.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qA8F2ESnm7m0jzRBBd3u" version="21.7.4" type="github" pages="4">
   <diagram id="fCJSdda50q0JQ7jUM0bV" name="Diagrama Organizacional">
     <mxGraphModel dx="1740" dy="1374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="800" math="0" shadow="0">
       <root>
@@ -1876,12 +1876,6 @@
             <mxPoint x="496.9799999999999" y="265.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-44" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="516.9800000000001" y="299.99999999999994" as="sourcePoint" />
-            <mxPoint x="576.98" y="299.99999999999994" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-45" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="330" y="379.99999999999994" as="sourcePoint" />
@@ -2000,10 +1994,10 @@
           <mxGeometry x="338.05555555555543" y="400.97222222222223" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-69" value="Diseño  &#xa;desarrollado para menores&#xa; kms de uso" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="575.8377777777775" y="259.99888888888887" width="30" height="19.999999999999886" as="geometry" />
+          <mxGeometry x="583.8877777777775" y="265.4188888888889" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-70" value="Características&#xa;distintas" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="515.83" y="261.11" width="33.37" height="18.89" as="geometry" />
+          <mxGeometry x="520.5200000000001" y="266.53000000000003" width="33.37" height="18.89" as="geometry" />
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-71" value="No hay &#xa;garantias" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="398.06333333333316" y="360.0033333333334" width="30" height="19.999999999999886" as="geometry" />
@@ -2250,8 +2244,8 @@
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-122" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="516.9800000000001" y="299.99999999999994" as="sourcePoint" />
-            <mxPoint x="576.98" y="299.99999999999994" as="targetPoint" />
+            <mxPoint x="521.9800000000001" y="299.99999999999994" as="sourcePoint" />
+            <mxPoint x="581.98" y="299.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-123" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
