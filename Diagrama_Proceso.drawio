@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T04:36:55.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="D46qadgALdxIVJS4i5K0" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T14:11:21.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ocRj1CaGlVRQyiQfR32n" version="21.7.4" type="github">
   <diagram name="Página-1" id="53ioumdITKJLZUPyk8oe">
     <mxGraphModel dx="974" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="800" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="20" y="20" width="930" height="380" as="geometry" />
         </mxCell>
         <mxCell id="17rlqQ4K7FpVVpBtT9sW-28" value="P9: Crea Mecánico Taller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="17rlqQ4K7FpVVpBtT9sW-2">
-          <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17rlqQ4K7FpVVpBtT9sW-29" value="P10: Crea País / Departamento / Ciudad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="17rlqQ4K7FpVVpBtT9sW-2">
           <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="750" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="17rlqQ4K7FpVVpBtT9sW-58" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="17rlqQ4K7FpVVpBtT9sW-2">
-          <mxGeometry x="40" y="20" width="100" height="70" as="geometry" />
+          <mxGeometry x="40" y="30" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="17rlqQ4K7FpVVpBtT9sW-3" value="A1: Usuario" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="410" width="860" height="280" as="geometry" />
