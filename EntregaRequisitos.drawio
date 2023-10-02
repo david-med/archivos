@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T02:53:57.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4wx6S_Otfr4tqKl15hRV" version="22.0.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-02T03:02:36.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="SbbYQhAd6F9psJvmzXCO" version="22.0.0" type="github" pages="5">
   <diagram id="fCJSdda50q0JQ7jUM0bV" name="Diagrama Organizacional">
     <mxGraphModel dx="1884" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="800" math="0" shadow="0">
       <root>
@@ -1802,7 +1802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Diagrama causa-efecto" id="fPG3fjSOWBDKx5ZFf36U">
-    <mxGraphModel dx="1548" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1950,10 +1950,10 @@
         <mxCell id="-JpMySI_4AJg6AWY6nvx-66" value="Abuso en&#xa; el uso" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="454.58555555555546" y="286.5277777777777" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-67" value="Reparación&#xa;oportuna" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-67" value="C3.1.1:se obtienen&#xa;en un bajo&#xa; costo" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="299.5755555555555" y="400.0022222222221" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-68" value="Sustitución &#xa;de repuestos" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-68" value="C3.1.2:" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="333.44" y="400.98" width="41.94" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-71" value="No hay &#xa;garantias" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
