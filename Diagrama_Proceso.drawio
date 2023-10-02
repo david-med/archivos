@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T21:59:08.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hvLJIvjtdxYTAe1CDkrx" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T00:57:04.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="usZDzUEw3zW_O3PsvKgx" version="21.7.4" type="github">
   <diagram name="Diagrama de procesos" id="53ioumdITKJLZUPyk8oe">
-    <mxGraphModel dx="1640" dy="2720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="-354" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -970,8 +970,8 @@
             <mxPoint x="2400.0000000000005" y="35" as="sourcePoint" />
             <mxPoint x="1536" y="394" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1430" y="35" />
-              <mxPoint x="1430" y="399" />
+              <mxPoint x="1410" y="35" />
+              <mxPoint x="1410" y="399" />
             </Array>
           </mxGeometry>
         </mxCell>
