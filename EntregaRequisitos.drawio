@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T01:19:37.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="b_YeL71QMvHsFY-FAQO8" version="21.7.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-02T01:19:59.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8gPETjZAU8hkbHrPIAVF" version="21.7.4" type="github" pages="5">
   <diagram id="fCJSdda50q0JQ7jUM0bV" name="Diagrama Organizacional">
     <mxGraphModel dx="1884" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="800" math="0" shadow="0">
       <root>
@@ -2160,10 +2160,10 @@
             <mxPoint x="507" y="266" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-123" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1" source="-JpMySI_4AJg6AWY6nvx-63">
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-123" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="330" y="379.99999999999994" as="sourcePoint" />
-            <mxPoint x="389.9999999999999" y="379.99999999999994" as="targetPoint" />
+            <mxPoint x="324.5799999999999" y="380" as="sourcePoint" />
+            <mxPoint x="395" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-124" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
