@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T06:12:13.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_ksDQD7CrcR4ODWrhdmL" version="22.0.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-02T06:17:35.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4Hyo6GLGjZrfvHF6ar5R" version="22.0.0" type="github" pages="5">
   <diagram id="fCJSdda50q0JQ7jUM0bV" name="Diagrama Organizacional">
     <mxGraphModel dx="2690" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="800" math="0" shadow="0">
       <root>
@@ -1895,7 +1895,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-61" value="C4.2:Alta demanda" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="583.8900000000001" y="220.96999999999997" width="30" height="19.999999999999886" as="geometry" />
+          <mxGeometry x="580.0000000000001" y="219.99999999999997" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-62" value="C4.1:Su calidad &#xa;es variable" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="387.28999999999996" y="251.53" width="44.58" height="30" as="geometry" />
@@ -1903,8 +1903,8 @@
         <mxCell id="-JpMySI_4AJg6AWY6nvx-63" value="C3.1:Repuestos no&#xa; son originales" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="269.75" y="370" width="59.83" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-64" value="Diferente&#xa;sistema electrico" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="525.99" y="240" width="31.98" height="20" as="geometry" />
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-64" value="C4.2.3:Bajos costos&#xa;de consumo de&#xa;combustibles" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="531.02" y="251.53" width="31.98" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-65" value="C4.2.1:Brinda un servicio&#xa;rapido" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="509.99999999999994" y="179.9999999999999" width="30" height="19.999999999999886" as="geometry" />
@@ -2053,10 +2053,10 @@
             <mxPoint x="420" y="319.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-120" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-120" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;entryX=-0.463;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="-JpMySI_4AJg6AWY6nvx-61">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="490.4900000000001" y="230.54999999999993" as="sourcePoint" />
-            <mxPoint x="563.51" y="230.55" as="targetPoint" />
+            <mxPoint x="560" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-121" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
@@ -2209,7 +2209,7 @@
         <mxCell id="-JpMySI_4AJg6AWY6nvx-160" value="C1.2.2:Falta de &#xa;organización" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="279.99999999999994" y="231.53" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="HhyNdRaYMbQ-mf2PLdqJ-2" value="" style="edgeStyle=none;endArrow=none;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
+        <mxCell id="HhyNdRaYMbQ-mf2PLdqJ-2" value="" style="edgeStyle=none;endArrow=none;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;entryX=0.156;entryY=-0.112;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="-JpMySI_4AJg6AWY6nvx-64">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="515.83" y="230" as="sourcePoint" />
             <mxPoint x="530" y="240" as="targetPoint" />
