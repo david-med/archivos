@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T02:12:02.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="aXO2PEHrWdG3pQNkVY8k" version="22.0.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-02T02:32:30.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="W_vV47Z_WTJoi16zoZeM" version="22.0.0" type="github" pages="5">
   <diagram id="fCJSdda50q0JQ7jUM0bV" name="Diagrama Organizacional">
     <mxGraphModel dx="1884" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="800" math="0" shadow="0">
       <root>
@@ -1802,7 +1802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Diagrama causa-efecto" id="fPG3fjSOWBDKx5ZFf36U">
-    <mxGraphModel dx="1633" dy="228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1821,52 +1821,46 @@
             <mxPoint x="280" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-10" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="126.45833333333323" y="340" as="sourcePoint" />
-            <mxPoint x="186.45833333333323" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-11" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="-JpMySI_4AJg6AWY6nvx-25" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="106.45833333333323" y="380" as="sourcePoint" />
             <mxPoint x="170" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-22" value="" style="edgeStyle=none;endArrow=none;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-22" value="" style="edgeStyle=none;endArrow=none;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;exitX=1.066;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="-JpMySI_4AJg6AWY6nvx-31">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="160" y="360" as="sourcePoint" />
             <mxPoint x="176.45833333333323" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-24" value="SP2.1: Tiempos prolongados &#xa;sin mantenimiento " style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="24" y="326.86" width="104.52" height="20" as="geometry" />
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-24" value="C2.1: Por falta de interes" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="10" y="330" width="104.52" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-25" value="SP2.2: Frecuencia de &#xa;mantenimiento" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-25" value="C2.2:No hay frecuencia de &#xa;mantenimiento" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="-33.54" y="369.86" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-27" value="C1.1.2:Imprudencia" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="189.99833333333316" y="200.97" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-30" value="SP2.1.1: Averías &#xa;mayores" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-30" value="C2.1.1: Frustración &#xa;por el tema" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="70" y="350" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-31" value="Deterioro &#xa;de la moto &#xa;en general" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="131.45833333333306" y="349.99666666666667" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-31" value="C2.1.2:Labores &#xa;diferentes" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="131.45833333333306" y="350.00666666666666" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-32" value="SP2.2.1: Olvido: no se recuerdan &#xa;las fechas de los mantenimientos" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-32" value="C2.2.1:Olvido: no se recuerdan &#xa;las fechas de los mantenimientos" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="-43.54" y="405" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-33" value="SP2.2.2:  Por falta de presupuesto" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-33" value="C2.2.2:Por falta de&#xa; presupuesto" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="56.460000000000015" y="405.42" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-34" value="Averías&#xa;imprevistas" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-34" value="C2.3.3:Anula la&#xa;curiosidad" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="202.12166666666656" y="380.9766666666667" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-36" value="C1.2:Intolerancia" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="323.99999999999994" y="241.53" width="41.17" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-37" value="2.3: Desconocimiento&#xa;de mantenimientos" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-37" value="C2.3:Desconocimiento&#xa;de mantenimientos" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="214.83" y="410" width="85.17" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-43" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
@@ -2070,7 +2064,7 @@
             <mxPoint x="300" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-100" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1">
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-100" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" edge="1" source="-JpMySI_4AJg6AWY6nvx-24">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="130.93833333333322" y="339.86" as="sourcePoint" />
             <mxPoint x="190.93833333333322" y="339.86" as="targetPoint" />
@@ -2265,8 +2259,8 @@
             <mxPoint x="631.0966666666666" y="377.8211111111108" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JpMySI_4AJg6AWY6nvx-154" value="Mayor desgaste de piezas/&#xa;incremento de costos" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="225.24999999999997" y="444.2399999999999" width="94.58" height="20" as="geometry" />
+        <mxCell id="-JpMySI_4AJg6AWY6nvx-154" value="C2.3.2:Desprecia &#xa;la inciativa propia" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="205.41999999999996" y="438.4699999999999" width="94.58" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-JpMySI_4AJg6AWY6nvx-156" value="" style="edgeStyle=none;endArrow=none;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;exitX=-0.122;exitY=-0.048;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="-JpMySI_4AJg6AWY6nvx-159">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -2337,7 +2331,7 @@
             <mxPoint x="64.58000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSTcnUeSCh6Bbv1i0VCv-7" value="SP2.3.1: Desconoce &#xa;manual de garantías &#xa;de la moto" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="mSTcnUeSCh6Bbv1i0VCv-7" value="C2.3.1: Desconoce &#xa;manual de garantías &#xa;de la moto" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="150.01000000000002" y="438.47" width="63.43" height="31.53" as="geometry" />
         </mxCell>
         <mxCell id="mSTcnUeSCh6Bbv1i0VCv-8" value="" style="edgeStyle=none;endArrow=none;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="mSTcnUeSCh6Bbv1i0VCv-7" edge="1">
