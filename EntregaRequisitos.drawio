@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T21:27:46.775Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="U9HV4Pn3KiGbToUP3tvV" version="22.0.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-27T21:28:01.883Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6laGO2K9GqGqH-VGFeYL" version="22.0.0" type="github" pages="7">
   <diagram id="fCJSdda50q0JQ7jUM0bV" name="Diagrama Organizacional">
     <mxGraphModel dx="2124" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="800" math="0" shadow="0">
       <root>
@@ -3723,15 +3723,10 @@
             <mxPoint x="1060" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_kSsIoqh9Oxm-MXjeomT-158" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="_kSsIoqh9Oxm-MXjeomT-158" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="nO_hwglADhSXHIzxlE3p-25" source="_kSsIoqh9Oxm-MXjeomT-148">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="320" as="sourcePoint" />
             <mxPoint x="1060" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nO_hwglADhSXHIzxlE3p-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_kSsIoqh9Oxm-MXjeomT-158">
-          <mxGeometry x="0.32" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_kSsIoqh9Oxm-MXjeomT-160" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.025;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.033;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="_kSsIoqh9Oxm-MXjeomT-145" source="_kSsIoqh9Oxm-MXjeomT-147">
