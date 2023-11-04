@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T01:22:53.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CMAZ29D9G8x_xrkwqDWu" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-04T01:25:42.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Owc4bVnNHpOUkQjozdyG" version="22.0.8" type="github" pages="2">
   <diagram name="Página-1" id="Km7TS0mzY9OoCIneV7e0">
     <mxGraphModel dx="819" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -49,22 +49,22 @@
         <mxCell id="U7ibFPoD31fuwft3YfZi-34" value="C2.2:Desactualización&#xa; en técnicas y métodos&#xa;para una calidad de mtto" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="269.46000000000004" y="439.86000000000007" width="13.96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U7ibFPoD31fuwft3YfZi-58" value="Su diseño y modelo&#xa;de motocicleta no &#xa;es la mas apta para&#xa;cierta operación" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="623.89" y="239.99999999999997" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="U7ibFPoD31fuwft3YfZi-58" value="C5.1:Su diseño y modelo&#xa;de motocicleta no &#xa;es la mas apta para&#xa;cierta operación" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="634.89" y="239.99999999999997" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="U7ibFPoD31fuwft3YfZi-59" value="Mal uso y forma &#xa;de conducir de &#xa;cada usuario" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="425" y="289.99999999999983" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="U7ibFPoD31fuwft3YfZi-59" value="C5.2:Mal uso y forma &#xa;de conducir de &#xa;cada usuario" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="433" y="289.99999999999983" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="U7ibFPoD31fuwft3YfZi-60" value="C3.2:Ineficiencia &#xa;generada&#xa;en la operación" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="319.99999999999994" y="410.9999999999998" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="U7ibFPoD31fuwft3YfZi-61" value="El sistema eléctrico&#xa;sufre recalentamiento&#xa;debido a altas temperaturas&#xa;ambiente" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+        <mxCell id="U7ibFPoD31fuwft3YfZi-61" value="C5.1.1:El sistema eléctrico&#xa;sufre recalentamiento&#xa;debido a altas temperaturas&#xa;ambiente" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="544.68" y="220" width="31.98" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U7ibFPoD31fuwft3YfZi-62" value="El sistema mecanico &#xa;falla repetitivamente&#xa;debido a la zona de uso" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="576.6599999999999" y="279.9999999999999" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="U7ibFPoD31fuwft3YfZi-62" value="C5.1.2:El sistema mecánico &#xa;falla repetitivamente&#xa;debido a la zona de uso" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="569.6599999999999" y="276.9999999999999" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="U7ibFPoD31fuwft3YfZi-63" value="Usuarios abusan del uso de &#xa;sus motocicletas" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+        <mxCell id="U7ibFPoD31fuwft3YfZi-63" value="C5.2.2:Usuarios abusan del uso de &#xa;sus motocicletas" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="468.0655555555554" y="326.5277777777777" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="U7ibFPoD31fuwft3YfZi-64" value="C3.2.2:Requerimiento de &#xa;reparación con mayor &#xa;frecuencia generando &#xa;paros inesperados" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
@@ -73,10 +73,10 @@
         <mxCell id="U7ibFPoD31fuwft3YfZi-65" value="C3.2.1:La sustitución de los repuestos &#xa;son mas frecuentes de lo normal &#xa;causando averías mayores" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="359.8255555555554" y="380.0022222222222" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="U7ibFPoD31fuwft3YfZi-66" value="Costos elevados&#xa;para importar ciertos&#xa;repuestos originales" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+        <mxCell id="U7ibFPoD31fuwft3YfZi-66" value="C5.3.2:Costos elevados&#xa;para importar ciertos&#xa;repuestos originales" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="616.3677777777776" y="339.9988888888888" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="U7ibFPoD31fuwft3YfZi-67" value="Existes varios repuestos&#xa;genéricos de baja calidad" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+        <mxCell id="U7ibFPoD31fuwft3YfZi-67" value="C5.3.1:Existes varios repuestos&#xa;genéricos de baja calidad" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="646.37" y="287.09" width="33.37" height="18.89" as="geometry" />
         </mxCell>
         <mxCell id="U7ibFPoD31fuwft3YfZi-68" value="C3.1.1:No hay &#xa;cobertura&#xa;para&#xa;garantías" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
@@ -88,7 +88,7 @@
         <mxCell id="U7ibFPoD31fuwft3YfZi-70" value="C3.3.2:Aumento de consumo&#xa; de combustible" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="457.9833333333331" y="511.99666666666667" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="U7ibFPoD31fuwft3YfZi-71" value="No hay disponibilidad en&#xa;repuestos de ciertas marcas" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+        <mxCell id="U7ibFPoD31fuwft3YfZi-71" value="C5.3:No hay disponibilidad en&#xa;repuestos de ciertas marcas" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="672.3733333333333" y="310.0022222222222" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="U7ibFPoD31fuwft3YfZi-72" value="C3.3:Impacto &#xa;negativo&#xa;en el medio &#xa;ambiente" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
@@ -172,8 +172,8 @@
             <mxPoint x="460" y="399.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U7ibFPoD31fuwft3YfZi-134" value="Usuarios guardan sus motocicletas&#xa;generando deterioro y fallas a la hora&#xa; de usarlas nuevamente " style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="424.9955555555555" y="249.99777777777774" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="U7ibFPoD31fuwft3YfZi-134" value="C5.2.1:Usuarios guardan sus motocicletas&#xa;generando deterioro y fallas a la hora&#xa; de usarlas nuevamente " style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="429.9955555555555" y="249.99777777777774" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="U7ibFPoD31fuwft3YfZi-135" value="C3.1.2:Piezas &#xa;usadas&#xa;con defectos" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="493" y="408" width="30" height="20.01" as="geometry" />
@@ -367,7 +367,7 @@
         <mxCell id="LKPUPwpMn5XzVCk3hOMj-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.048;exitY=0.864;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="1" source="U7ibFPoD31fuwft3YfZi-134">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="360" as="sourcePoint" />
-            <mxPoint x="490" y="300" as="targetPoint" />
+            <mxPoint x="510" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LKPUPwpMn5XzVCk3hOMj-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.886;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="1" source="U7ibFPoD31fuwft3YfZi-111">
